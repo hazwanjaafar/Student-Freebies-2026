@@ -61,7 +61,7 @@ Below are collapsible sections for each category.
 |----------------|--------------|---------|------|
 | 🎨 Figma Education | Free Professional plan | UI/UX design, prototyping, collaboration | https://www.figma.com/education |
 | 🖼️ Canva for Education | Free premium features | Graphic design for presentations, posters, assignments | https://www.canva.com/education |
-| 📝 Notion for Education | Free Plus plan | Notes, project management, academic organization | https://www.notion.com/education |
+| 📝 Notion for Education | Free Plus plan | Notes, project management, academic organization | https://www.notion.com/help/notion-for-education |
 | 📊 Microsoft 365 Education | Free Word, Excel, PowerPoint, OneDrive | Productivity suite for assignments and collaboration | https://www.microsoft.com/en-my/microsoft-365/college-student-pricing |
 
 </details>
